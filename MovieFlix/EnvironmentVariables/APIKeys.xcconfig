@@ -1,0 +1,13 @@
+//
+//  APIKeys.xcconfig
+//  MovieFlix
+//
+//  Created by Dimitrios Tsoumanis on 12/02/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_TOKEN = your token
+
+API_KEY = your api key
